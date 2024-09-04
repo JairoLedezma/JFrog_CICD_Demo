@@ -22,13 +22,13 @@
                     </snapshots>
                     <id>central</id>
                     <name>dev-demo-libs-release</name>
-                    <url>https://nvsconsulting.jfrog.io/artifactory/dev-demo-libs-release</url>
+                    <url>https://nvsswampup.jfrog.io/artifactory/dev-demo-libs-libs-release</url>
                 </repository>
                 <repository>
                     <snapshots />
                     <id>snapshots</id>
                     <name>dev-demo-libs-snapshot</name>
-                    <url>https://nvsconsulting.jfrog.io/artifactory/dev-demo-libs-snapshot</url>
+                    <url>https://nvsswampup.jfrog.io/artifactory/dev-demo-libs-libs-snapshot</url>
                 </repository>
             </repositories>
             <pluginRepositories>
@@ -38,13 +38,13 @@
                     </snapshots>
                     <id>central</id>
                     <name>dev-demo-libs-release</name>
-                    <url>https://nvsconsulting.jfrog.io/artifactory/dev-demo-libs-release</url>
+                    <url>https://nvsswampup.jfrog.io/artifactory/dev-demo-libs-libs-release</url>
                 </pluginRepository>
                 <pluginRepository>
                     <snapshots />
                     <id>snapshots</id>
                     <name>dev-demo-libs-snapshot</name>
-                    <url>https://nvsconsulting.jfrog.io/artifactory/dev-demo-libs-snapshot</url>
+                    <url>https://nvsswampup.jfrog.io/artifactory/dev-demo-libs-libs-snapshot</url>
                 </pluginRepository>
             </pluginRepositories>
             <id>artifactory</id>
